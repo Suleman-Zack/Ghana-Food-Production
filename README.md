@@ -1,6 +1,6 @@
 # Ghana-Food-Production
 # Background
-The United Nations Sustainable Development Goal 2 (SDG 2) underscores the global commitment to achieving zero hunger, emphasizing the need for improved and sustainable food systems worldwide. In alignment with this overarching objective, this report focuses on a detailed analysis of food production in Ghana spanning multiple years. 
+The United Nations Sustainable Development Goal 2 (SDG 2) underscores the global commitment to achieving zero hunger, emphasizing the need for improved and sustainable food systems worldwide. In alignment with this overarching objective, this report focuses on a detailed analysis of food production in Ghana from 1993 to 2017. 
 
 The study aims to
 * provide a comprehensive understanding of regional food production, emphasizing annual yields across various regions.
