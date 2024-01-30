@@ -3,7 +3,9 @@
 The United Nations Sustainable Development Goal 2 (SDG 2) underscores the global commitment to achieving zero hunger, emphasizing the need for improved and sustainable food systems worldwide. In alignment with this overarching objective, this report focuses on a detailed analysis of food production in Ghana spanning multiple years. The study aims to provide a comprehensive understanding of regional food production, emphasizing annual yields across various regions. Moreover, the report sets out a clear project objective, seeking to harness the power of emerging technologies, specifically data analytics, to support policymakers in the judicious allocation of resources. By leveraging data-driven insights, this initiative aims to enhance and sustain food production in Ghana.
 The project's primary goal is not only to eliminate hunger but also to contribute significantly to the economic growth of key stakeholders in the agricultural sector, including farmers, traders, and other participants in the food supply chain. Recognizing the pivotal role that technology can play in shaping sustainable agricultural practices, the report underscores the importance of data analytics as a tool to inform strategic decision-making. As we delve into the regional nuances of food production and annual yields, the overarching objective remains to empower policymakers with actionable insights that can drive targeted resource allocation, fostering a more resilient and prosperous food landscape in Ghana.
 
-![Ghana-foodstuff](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/56e6364c-9270-4778-9e29-8cab77b5774b) ![Ghana-foodstuff](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/56e6364c-9270-4778-9e29-8cab77b5774b)
+![image_1](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/4699f4d7-c09a-4687-b0a9-35e065d39a26) ![image_1](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/9c858406-d66a-41c5-a734-f39167f38501)
+
+
 
 # FINDINGS
 * The Brong Ahafo contributed 26% of the total food produced in Ghana
