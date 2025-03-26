@@ -11,7 +11,7 @@ The study aims to
 By leveraging data-driven insights, this initiative aims to enhance and sustain food production in Ghana.
 
 
-![image_1](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/c03a3ad8-5463-4746-82a3-306516d7f770) ![image_1](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/fed1ffdc-e216-4b56-b037-246df1676d66)
+![image_1](https://github.com/Suleman-Zack/Ghana-Food-Production/assets/63692930/c03a3ad8-5463-4746-82a3-306516d7f770) 
 
 
 
